@@ -1,0 +1,15 @@
+#
+Decay  psi(2S) 
+
+1.0000    J/psi  pi+ pi-                   JPIPI;
+Enddecay
+#
+Decay J/psi
+0.0130     gamma eta_c                     JPE;
+Enddecay
+ 
+Decay eta_c
+1.0 nu_e  anti-nu_e   PHSP;
+Enddecay
+  
+End
